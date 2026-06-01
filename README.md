@@ -106,10 +106,4 @@ Nếu bạn muốn đóng góp hoặc báo cáo vấn đề, vui lòng tạo Iss
 
 Đây là dự án học tập cho môn Lập trình Windows Forms. Mã nguồn và báo cáo chi tiết đã được bao gồm.
 
-## Liên hệ
 
-Nếu có câu hỏi, vui lòng liên hệ qua GitHub hoặc email.
-
----
-
-Cảm ơn đã sử dụng phần mềm quản lý cửa hàng Cafe
